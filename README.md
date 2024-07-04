@@ -1,3 +1,5 @@
+**This project is a school assignment developed for educational purposes and is not intended for production use.**
+
 ***
 Links to online documents are available on the documentation repo wiki page:  
 [https://git.ti.howest.be/TI/2022-2023/s3/analysis-and-development-project/projects/group-07/documentation/-/wikis/CANNONEER](https://git.ti.howest.be/TI/2022-2023/s3/analysis-and-development-project/projects/group-07/documentation/-/wikis/CANNONEER)
