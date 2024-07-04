@@ -1,0 +1,17 @@
+{
+  "http": {
+    "port": 8080
+  },
+  "db" : {
+    "url": "jdbc:h2:./db-07",
+    "username": "",
+    "password": "",
+    "webconsole.port": 9000
+  },
+  "api" : {
+    "url": "http://project-ii.ti.howest.be/monitor/apis/group-07"
+  },
+  "api_local" : {
+    "url": "../documentation/api-spec/openapi-mars.yaml"
+  }
+}
